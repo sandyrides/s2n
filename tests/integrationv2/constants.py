@@ -1,0 +1,2 @@
+TEST_CERT_DIRECTORY="../pems/"
+TEST_SNI_CERT_DIRECTORY="../pems/sni/"
